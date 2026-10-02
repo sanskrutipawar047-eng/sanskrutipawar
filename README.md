@@ -56,12 +56,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskrutipawar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sanskruti's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutipawar&theme=tokyonight&hide_border=true&background=0D1117" alt="Sanskruti's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskrutipawar047-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sanskruti's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutipawar047-eng&theme=tokyonight&hide_border=true&background=0D1117" alt="Sanskruti's GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutipawar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutipawar047-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 <br>
