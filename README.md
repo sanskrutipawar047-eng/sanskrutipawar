@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=20BEFF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Sanskruti+Pawar+👋;3rd-Year+AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi there, I'm Sanskruti Pawar! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="35"></h1>
 
-<h3 align="center">Hello there! 👋 I'm Sanskruti, a passionate data enthusiast exploring the world of AI.</h3>
+<h3 align="center">3rd-Year AI & Data Science Student | Machine Learning Enthusiast</h3>
+
+<p align="center"><i>A passionate data enthusiast exploring the world of AI.</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanskruti-pawar-778905332/">
